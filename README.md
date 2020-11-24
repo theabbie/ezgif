@@ -1,0 +1,2 @@
+# ezgif
+Unofficial ezgif API

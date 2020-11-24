@@ -2,7 +2,7 @@
 
 ![ezgif](https://user-images.githubusercontent.com/17960677/100124630-e2865980-2ea1-11eb-94e4-7240432ed4a6.png)
 
-<**Unofficial ezgif API**
+>**Unofficial ezgif API**
 
  ## Example
 
